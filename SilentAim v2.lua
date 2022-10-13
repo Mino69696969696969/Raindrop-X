@@ -39,7 +39,6 @@ circle.Thickness = 2
 circle.Color = Color3.fromRGB(231, 84, 128)
 circle.NumSides = 12
 circle.Filled = false
-circle.Visible = true
 function ValiantAimHacks.updateCircle()
     if (circle) then
         -- // Set Circle Properties
